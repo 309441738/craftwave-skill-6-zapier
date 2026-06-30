@@ -1,0 +1,10 @@
+{
+  "title": "团体邮轮旅行方案",
+  "description": "为公司团体或组织提供邮轮旅行方案，适合团队出行的需求，制定专属的邮轮产品。",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
